@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushant0-0
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Odoo which is a popular Python framework for ERP solutions. 
+- 🌱 I’m currently using JS. 
 - 💞️ I’m open for project collaborations.
 - 📫 How to reach me: https://www.linkedin.com/in/sushant-bhusal-59107a1aa 
 
