@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sushant0-0
+- 👋 Hi, I’m Sushant Bhusal
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently using JS. 
 - 💞️ I’m open for project collaborations.
