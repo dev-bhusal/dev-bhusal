@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushant Bhusal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently using JS. 
+- 👀 I’m a software engineer.
+- 🌱 I’m currently occupied with web app developments 
 - 💞️ I’m open for project collaborations.
 - 📫 How to reach me: https://www.linkedin.com/in/sushant-bhusal-59107a1aa 
 
